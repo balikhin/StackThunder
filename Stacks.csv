@@ -1,0 +1,6 @@
+f1,f2,f3,f4,f5,f6,f7,f8,f9,f10,assumption
+n/a,opera_browser.dll,kernel32.dll,KernelBase.dll,ntdll.dll,ntdll.dll,ntdll.dll,ntdll.dll,ntdll.dll,ntdll.dll,1
+n/a,opera_browser.dll,n/a,opera_browser.dll,kernel32.dll,KernelBase.dll,ntdll.dll,ntdll.dll,ntdll.dll,ntdll.dll,1
+n/a,windows.immersiveshell.serviceprovider.dll,n/a,atcuf64.dll,ntdll.dll,ntdll.dll,ntdll.dll,ntdll.dll,ntdll.dll,ntdll.dll,1
+n/a,MMDevAPI.dll,sechost.dll,KernelBase.dll,plugin-cnotainer.exe,n/a,ntdll.dll,ntdll.dll,ntdll.dll,ntdll.dll,1
+n/a,user32.dll,win32u.dll,ntdll.dll,ser32.dll,FileMenuTools64.exe,shell32.dll,thumbcache.dll,KernelBase.dll,ntdll.dll,0

@@ -1,0 +1,12 @@
+Copy 10-50 top, middle, bottom stacks into plain text ->
+-> parser transfroms them into csv:
+frame_1 frame_2 . . . framen_n ML_result 
+
+Processing:
+Suspicious first
+	Adjacent to n/a frame names
+		comparison to names in different databases
+Log file for opposite result
+	15 top + 15 bottom
+
+Accuracy, recall, true/false positive rate, confusion matrix.
